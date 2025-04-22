@@ -1,0 +1,1 @@
+"{\"query\":\"query getAllEndpoints {  getEndpoints {    index    date    endpoint  }}\",\"variables\":{}}"

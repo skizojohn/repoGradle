@@ -1,0 +1,19 @@
+{
+  "data": {
+    "getDatasets": [
+      {
+        "identifier": "cfc89366aa2c82d0c5ff83cd7c209c3a",
+        "title": "title",
+        "type": "theme",
+        "description": "description",
+        "modified": "2025-03-03",
+        "versionInfo": "version",
+        "accessURL": "http://data.catalog.com/dataset/dcat",
+        "downloadURL": null,
+        "mediaType": "mediaType",
+        "publisher": "publisher",
+        "creator": "creator"
+      }
+    ]
+  }
+}

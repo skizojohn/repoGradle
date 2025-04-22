@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "edc": "https://w3id.org/edc/v0.0.1/ns/"
+  },
+  "@id": "003",
+  "properties": {
+    "name": "product description3",
+    "contenttype": "application/json"
+  },
+  "privateProperties": {
+    "secretKey": "12345"
+  },
+  "dataAddress": {
+    "type": "HttpData",
+    "baseUrl": "https://downloadapi.paperflite.com/api/2.0/shared_url/5d3af4010b593a7adc75f19b/asset/5d3af4010b593a7adc75f19a/download"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "@context": {
+    "@vocab": "https://w3id.org/edc/v0.0.1/ns/"
+  },
+  "@type": "391e7e04-14d5-4f8f-a146-38d7fd533f2e",
+  "@id": "dataset-id",
+  "protocol": "dataspace-protocol-http"
+}

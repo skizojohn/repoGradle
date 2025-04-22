@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://w3id.org/edc/v0.0.1/ns/"
+  },
+  "@id": "1",
+  "accessPolicyId": "eu-policy",
+  "contractPolicyId": "eu-policy",
+  "assetsSelector": [{
+    "@type": "CriterionDto",
+    "operandLeft": "https://w3id.org/edc/v0.0.1/ns/id",
+    "operator": "=",
+    "operandRight": "899d1ad0-532a-47e8-2245-1aa3b2a4eac6"
+  }]
+}
